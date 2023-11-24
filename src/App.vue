@@ -43,19 +43,4 @@ export default {
 .bgVectors{
   background-image: url('./media/bgVectors.png');
 }
-.nav {
-  position: absolute;
-  z-index: 2;
-  width: 100%;
-  top: 0;
-}
-
-.home {
-  position: relative;
-  display: flex;
-  flex-direction: row;
-  min-height: 100vh;
-  width: 100%;
-  background: blue;
-}
 </style>
